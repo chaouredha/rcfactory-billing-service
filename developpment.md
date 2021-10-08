@@ -6,6 +6,13 @@ Pour builder et exécuter cette API, vous devez utiliser (pour l'instant, la cib
 - [Maven 3](https://maven.apache.org)
 - une base de données H2
 
+# Modules :
+
+- [rcfactory-billing-service](git@github.com:chaouredha/rcfactory-billing-service.git)
+- [rcfactory-customer-service](git@github.com:chaouredha/rcfactory-customer-service.git)
+- [rcfactory-eureka-service](git@github.com:chaouredha/rcfactory-eureka-service.git)
+- [rcfactory-gateway](git@github.com:chaouredha/rcfactory-gateway.git)
+
 # Urls Swagger
 
 - [Local](http://localhost:8083/swagger-ui/index.html?configUrl=/v3/api-docs/swagger-config#/)
@@ -17,4 +24,4 @@ Le job integration se trouve ici:
 https://github.com/chaouredha/rcfactory-customer-service/actions
 
 - Architectures :
-![img.png](img.png)
+  ![img.png](img.png)
