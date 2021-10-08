@@ -11,6 +11,8 @@ Pour builder et exécuter cette API, vous devez utiliser (pour l'instant, la cib
 - [rcfactory-billing-service](git@github.com:chaouredha/rcfactory-billing-service.git)
 - [rcfactory-customer-service](git@github.com:chaouredha/rcfactory-customer-service.git)
 - [rcfactory-eureka-service](git@github.com:chaouredha/rcfactory-eureka-service.git)
+- [rcfactory-configuration-service](git@github.com:chaouredha/rcfactory-configuration-service.git)
+- [rcfactory-configuration](git@github.com:chaouredha/rcfactory-configuration.git)
 - [rcfactory-gateway](git@github.com:chaouredha/rcfactory-gateway.git)
 
 # Urls Swagger
